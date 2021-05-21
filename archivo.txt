@@ -1,7 +1,8 @@
-Hola Mundo
 Primer práctica Git
-Aplicaciones Web
+Materia: Aplicaciones Web
 Grupo: C
 Grado: 3ro
-Carrera: Tecnologias de la informacion
-Area: Desarrollo de software multiplataforma
+Carrera: TecnologÍas de la información
+Área: Desarrollo de software multiplataforma
+Turno: Matutino
+Docente: José Christian Narváez Figueroa
