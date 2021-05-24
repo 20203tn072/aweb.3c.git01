@@ -1,3 +1,5 @@
 Realizando una actividad
 Hora de entrega: 9:00 am
 Dia de entrega: Lunes
+Nombre del archivo: archivo2
+tipo de archivo: .txt
